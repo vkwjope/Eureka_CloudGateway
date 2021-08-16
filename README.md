@@ -7,7 +7,9 @@ Components:
 4. payment-service
 
 **cloud-gateway** : Uses Spring cloud api gateway for routing service
+
 **servce-registry** : Uses Eureka Naming Server for service discovery
+
 **order-service & payment-service** : Sample services with a single endpint returning a String as a response.
 
 **Endpoints**
