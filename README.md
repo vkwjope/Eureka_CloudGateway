@@ -12,6 +12,8 @@ Components:
 
 **order-service & payment-service** : Sample services with a single endpint returning a String as a response.
 
+
+
 **Endpoints**
 
 **payment-service**
